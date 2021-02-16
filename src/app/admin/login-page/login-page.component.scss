@@ -1,0 +1,13 @@
+form {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+small {
+  color: #dc3545;
+}
+
+label {
+  color: #0a66c2;
+  &.invalid { border-color: #dc3545};
+}
